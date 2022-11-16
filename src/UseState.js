@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 
 const StateTutorial = () => {
   const [inputValue, setInputValue] = useState("Andressa");
@@ -17,6 +17,3 @@ const StateTutorial = () => {
 };
 
 export default StateTutorial;
-
-
-
